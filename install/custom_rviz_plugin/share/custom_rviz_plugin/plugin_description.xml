@@ -1,0 +1,9 @@
+<library path="libcustom_rviz_plugin">
+  <class name="custom_rviz_plugin/CustomPlugin"
+         type="CustomPlugin"
+         base_class_type="rviz_common::Display">
+    <description>
+      A custom RViz display plugin.
+    </description>
+  </class>
+</library>

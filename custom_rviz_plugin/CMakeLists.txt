@@ -1,0 +1,43 @@
+cmake_minimum_required(VERSION 3.5)
+project(custom_rviz_plugin)
+
+# Find required packages
+find_package(ament_cmake REQUIRED)
+find_package(rviz_common REQUIRED)
+find_package(pluginlib REQUIRED)
+find_package(Qt5 REQUIRED COMPONENTS Widgets)
+
+# Add include directories
+include_directories(
+  include
+  ${rviz_common_INCLUDE_DIRS}
+  ${Qt5Widgets_INCLUDE_DIRS}
+)
+
+# Add the source files
+add_library(${PROJECT_NAME} SHARED src/custom_plugin.cpp)
+
+# Link against required libraries
+ament_target_dependencies(${PROJECT_NAME}
+  rviz_common
+  pluginlib
+  rclcpp
+)
+
+target_link_libraries(${PROJECT_NAME} Qt5::Widgets)
+
+# Export the plugin
+pluginlib_export_plugin_description_file(rviz_common plugin_description.xml)
+
+# Install
+install(
+  TARGETS ${PROJECT_NAME}
+  DESTINATION lib/${PROJECT_NAME}
+)
+
+install(
+  FILES plugin_description.xml
+  DESTINATION share/${PROJECT_NAME}
+)
+
+ament_package()
