@@ -1,0 +1,16 @@
+/home/test/ros2_ws/install/my_rviz_plugin/lib/my_rviz_plugin/libmy_rviz_plugin.so
+/home/test/ros2_ws/install/my_rviz_plugin/share/ament_index/resource_index/package_run_dependencies/my_rviz_plugin
+/home/test/ros2_ws/install/my_rviz_plugin/share/ament_index/resource_index/parent_prefix_path/my_rviz_plugin
+/home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/environment/ament_prefix_path.sh
+/home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/environment/ament_prefix_path.dsv
+/home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/environment/path.sh
+/home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/environment/path.dsv
+/home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/local_setup.bash
+/home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/local_setup.sh
+/home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/local_setup.zsh
+/home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/local_setup.dsv
+/home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/package.dsv
+/home/test/ros2_ws/install/my_rviz_plugin/share/ament_index/resource_index/packages/my_rviz_plugin
+/home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/cmake/my_rviz_pluginConfig.cmake
+/home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/cmake/my_rviz_pluginConfig-version.cmake
+/home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/package.xml

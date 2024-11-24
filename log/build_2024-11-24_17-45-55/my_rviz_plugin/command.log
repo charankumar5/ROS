@@ -1,0 +1,4 @@
+Invoking command in '/home/test/ros2_ws/build/my_rviz_plugin': /usr/bin/cmake --build /home/test/ros2_ws/build/my_rviz_plugin -- -j4 -l4
+Invoked command in '/home/test/ros2_ws/build/my_rviz_plugin' returned '0': /usr/bin/cmake --build /home/test/ros2_ws/build/my_rviz_plugin -- -j4 -l4
+Invoking command in '/home/test/ros2_ws/build/my_rviz_plugin': /usr/bin/cmake --install /home/test/ros2_ws/build/my_rviz_plugin
+Invoked command in '/home/test/ros2_ws/build/my_rviz_plugin' returned '0': /usr/bin/cmake --install /home/test/ros2_ws/build/my_rviz_plugin

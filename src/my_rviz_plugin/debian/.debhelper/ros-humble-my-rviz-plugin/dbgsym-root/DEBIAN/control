@@ -1,0 +1,13 @@
+Package: ros-humble-my-rviz-plugin-dbgsym
+Package-Type: ddeb
+Source: ros-humble-my-rviz-plugin
+Version: 0.1.0-0jammy
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Your Name <you@example.com>
+Installed-Size: 353
+Depends: ros-humble-my-rviz-plugin (= 0.1.0-0jammy)
+Section: debug
+Priority: optional
+Description: debug symbols for ros-humble-my-rviz-plugin
+Build-Ids: 4c5b6d6cc24056aef0b2b041bee9f010dcde7e25

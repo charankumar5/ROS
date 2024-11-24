@@ -1,0 +1,104 @@
+[0.062s] Invoking command in '/home/test/ros2_ws/build/my_rviz_plugin': /usr/bin/cmake /home/test/ros2_ws/src/my_rviz_plugin -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/test/ros2_ws/install/my_rviz_plugin
+[0.484s] -- The C compiler identification is GNU 11.4.0
+[0.893s] -- The CXX compiler identification is GNU 11.4.0
+[0.939s] -- Detecting C compiler ABI info
+[1.442s] -- Detecting C compiler ABI info - done
+[1.477s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.479s] -- Detecting C compile features
+[1.481s] -- Detecting C compile features - done
+[1.497s] -- Detecting CXX compiler ABI info
+[2.087s] -- Detecting CXX compiler ABI info - done
+[2.111s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.115s] -- Detecting CXX compile features
+[2.116s] -- Detecting CXX compile features - done
+[2.127s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.896s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.303s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[3.499s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[3.527s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.575s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[3.642s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.723s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.929s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.942s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[4.470s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[4.597s] -- Found FastRTPS: /opt/ros/humble/include  
+[4.788s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.831s] -- Looking for pthread.h
+[5.447s] -- Looking for pthread.h - found
+[5.453s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[6.051s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[6.061s] -- Found Threads: TRUE  
+[6.318s] -- Found rviz_common: 11.2.13 (/opt/ros/humble/share/rviz_common/cmake)
+[6.398s] -- Setting assimp_DIR to: '/opt/ros/humble/share/rviz_assimp_vendor/cmake/../../../opt/rviz_assimp_vendor/lib/cmake/assimp-4.1'
+[6.427s] -- Setting OGRE_DIR to: '/opt/ros/humble/share/rviz_ogre_vendor/cmake/../../../opt/rviz_ogre_vendor/lib/OGRE/cmake'
+[6.432s] -- Found OGRE
+[6.432s] --   static     : OFF
+[6.438s] --   components : HLMS;MeshLodGenerator;Overlay;Paging;Property;RTShaderSystem;Terrain;Volume
+[6.439s] --   plugins    : Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[6.443s] --   media      : /opt/ros/humble/opt/rviz_ogre_vendor/share/OGRE/Media
+[6.443s] -- OGRE_LIBRARIES: OgreHLMS;OgreMeshLodGenerator;OgreOverlay;OgrePaging;OgreProperty;OgreRTShaderSystem;OgreTerrain;OgreVolume;OgreMain
+[6.444s] -- OGRE_LIBRARY_DIRS: /opt/ros/humble/opt/rviz_ogre_vendor/lib
+[6.446s] -- OGRE_PLUGINS: Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[6.446s] -- OGRE_PLUGIN_DIR: /opt/ros/humble/opt/rviz_ogre_vendor/lib/OGRE
+[6.447s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_RELEASE: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[6.447s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_DEBUG: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[6.450s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_RELEASE: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[6.451s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_DEBUG: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[6.451s] -- Could not find freeimage library
+[6.526s] -- Found ZLIB: /usr/lib/x86_64-linux-gnu/libz.so (found version "1.2.11") 
+[6.550s] -- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so   
+[7.122s] -- Found X11: /usr/include   
+[7.127s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so
+[7.714s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so - found
+[7.715s] -- Looking for gethostbyname
+[8.251s] -- Looking for gethostbyname - found
+[8.256s] -- Looking for connect
+[8.862s] -- Looking for connect - found
+[8.865s] -- Looking for remove
+[9.382s] -- Looking for remove - found
+[9.384s] -- Looking for shmat
+[9.904s] -- Looking for shmat - found
+[9.906s] -- Looking for IceConnectionNumber in ICE
+[10.441s] -- Looking for IceConnectionNumber in ICE - found
+[11.024s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[11.352s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[11.353s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[12.082s] -- Configuring done
+[12.395s] -- Generating done
+[12.404s] [33mCMake Warning:
+[12.404s]   Manually-specified variables were not used by the project:
+[12.406s] 
+[12.407s]     CATKIN_INSTALL_INTO_PREFIX_ROOT
+[12.409s] 
+[12.411s] [0m
+[12.412s] -- Build files have been written to: /home/test/ros2_ws/build/my_rviz_plugin
+[12.494s] Invoked command in '/home/test/ros2_ws/build/my_rviz_plugin' returned '0': /usr/bin/cmake /home/test/ros2_ws/src/my_rviz_plugin -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/test/ros2_ws/install/my_rviz_plugin
+[12.503s] Invoking command in '/home/test/ros2_ws/build/my_rviz_plugin': /usr/bin/cmake --build /home/test/ros2_ws/build/my_rviz_plugin -- -j4 -l4
+[12.900s] [ 25%] [34m[1mAutomatic MOC for target my_rviz_plugin[0m
+[13.136s] [ 25%] Built target my_rviz_plugin_autogen
+[13.301s] [ 50%] [32mBuilding CXX object CMakeFiles/my_rviz_plugin.dir/my_rviz_plugin_autogen/mocs_compilation.cpp.o[0m
+[13.302s] [ 75%] [32mBuilding CXX object CMakeFiles/my_rviz_plugin.dir/src/my_rviz_plugin.cpp.o[0m
+[30.628s] [100%] [32m[1mLinking CXX shared library libmy_rviz_plugin.so[0m
+[34.458s] [100%] Built target my_rviz_plugin
+[34.546s] Invoked command in '/home/test/ros2_ws/build/my_rviz_plugin' returned '0': /usr/bin/cmake --build /home/test/ros2_ws/build/my_rviz_plugin -- -j4 -l4
+[35.197s] Invoking command in '/home/test/ros2_ws/build/my_rviz_plugin': /usr/bin/cmake --install /home/test/ros2_ws/build/my_rviz_plugin
+[35.246s] -- Install configuration: ""
+[35.247s] -- Installing: /home/test/ros2_ws/install/my_rviz_plugin/lib/my_rviz_plugin/libmy_rviz_plugin.so
+[35.258s] -- Set runtime path of "/home/test/ros2_ws/install/my_rviz_plugin/lib/my_rviz_plugin/libmy_rviz_plugin.so" to ""
+[35.259s] -- Installing: /home/test/ros2_ws/install/my_rviz_plugin/share/ament_index/resource_index/package_run_dependencies/my_rviz_plugin
+[35.262s] -- Installing: /home/test/ros2_ws/install/my_rviz_plugin/share/ament_index/resource_index/parent_prefix_path/my_rviz_plugin
+[35.263s] -- Installing: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/environment/ament_prefix_path.sh
+[35.264s] -- Installing: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/environment/ament_prefix_path.dsv
+[35.265s] -- Installing: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/environment/path.sh
+[35.268s] -- Installing: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/environment/path.dsv
+[35.268s] -- Installing: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/local_setup.bash
+[35.270s] -- Installing: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/local_setup.sh
+[35.272s] -- Installing: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/local_setup.zsh
+[35.274s] -- Installing: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/local_setup.dsv
+[35.276s] -- Installing: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/package.dsv
+[35.278s] -- Installing: /home/test/ros2_ws/install/my_rviz_plugin/share/ament_index/resource_index/packages/my_rviz_plugin
+[35.280s] -- Installing: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/cmake/my_rviz_pluginConfig.cmake
+[35.282s] -- Installing: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/cmake/my_rviz_pluginConfig-version.cmake
+[35.284s] -- Installing: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/package.xml
+[35.293s] Invoked command in '/home/test/ros2_ws/build/my_rviz_plugin' returned '0': /usr/bin/cmake --install /home/test/ros2_ws/build/my_rviz_plugin

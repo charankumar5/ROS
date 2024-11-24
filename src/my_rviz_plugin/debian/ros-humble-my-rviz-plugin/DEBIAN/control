@@ -1,0 +1,9 @@
+Package: ros-humble-my-rviz-plugin
+Version: 0.1.0-0jammy
+Architecture: amd64
+Maintainer: Your Name <you@example.com>
+Installed-Size: 70
+Depends: libc6 (>= 2.32), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libqt5core5a (>= 5.15.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5.2), qtbase5-dev, ros-humble-rclcpp, ros-humble-rviz-common, ros-humble-rviz-rendering
+Section: misc
+Priority: optional
+Description: A custom RViz plugin example

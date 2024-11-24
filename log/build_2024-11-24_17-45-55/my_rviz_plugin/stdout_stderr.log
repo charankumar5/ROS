@@ -1,0 +1,21 @@
+[ 25%] [34m[1mAutomatic MOC for target my_rviz_plugin[0m
+[ 25%] Built target my_rviz_plugin_autogen
+[35m[1mConsolidate compiler generated dependencies of target my_rviz_plugin[0m
+[100%] Built target my_rviz_plugin
+-- Install configuration: ""
+-- Up-to-date: /home/test/ros2_ws/install/my_rviz_plugin/lib/my_rviz_plugin/libmy_rviz_plugin.so
+-- Up-to-date: /home/test/ros2_ws/install/my_rviz_plugin/share/ament_index/resource_index/package_run_dependencies/my_rviz_plugin
+-- Up-to-date: /home/test/ros2_ws/install/my_rviz_plugin/share/ament_index/resource_index/parent_prefix_path/my_rviz_plugin
+-- Up-to-date: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/environment/ament_prefix_path.sh
+-- Up-to-date: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/environment/path.sh
+-- Up-to-date: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/environment/path.dsv
+-- Up-to-date: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/local_setup.bash
+-- Up-to-date: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/local_setup.sh
+-- Up-to-date: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/local_setup.zsh
+-- Up-to-date: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/local_setup.dsv
+-- Installing: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/package.dsv
+-- Up-to-date: /home/test/ros2_ws/install/my_rviz_plugin/share/ament_index/resource_index/packages/my_rviz_plugin
+-- Up-to-date: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/cmake/my_rviz_pluginConfig.cmake
+-- Up-to-date: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/cmake/my_rviz_pluginConfig-version.cmake
+-- Up-to-date: /home/test/ros2_ws/install/my_rviz_plugin/share/my_rviz_plugin/package.xml

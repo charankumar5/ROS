@@ -1,0 +1,16 @@
+/opt/ros/humble/lib/my_rviz_plugin/libmy_rviz_plugin.so
+/opt/ros/humble/share/ament_index/resource_index/package_run_dependencies/my_rviz_plugin
+/opt/ros/humble/share/ament_index/resource_index/parent_prefix_path/my_rviz_plugin
+/opt/ros/humble/share/my_rviz_plugin/environment/ament_prefix_path.sh
+/opt/ros/humble/share/my_rviz_plugin/environment/ament_prefix_path.dsv
+/opt/ros/humble/share/my_rviz_plugin/environment/path.sh
+/opt/ros/humble/share/my_rviz_plugin/environment/path.dsv
+/opt/ros/humble/share/my_rviz_plugin/local_setup.bash
+/opt/ros/humble/share/my_rviz_plugin/local_setup.sh
+/opt/ros/humble/share/my_rviz_plugin/local_setup.zsh
+/opt/ros/humble/share/my_rviz_plugin/local_setup.dsv
+/opt/ros/humble/share/my_rviz_plugin/package.dsv
+/opt/ros/humble/share/ament_index/resource_index/packages/my_rviz_plugin
+/opt/ros/humble/share/my_rviz_plugin/cmake/my_rviz_pluginConfig.cmake
+/opt/ros/humble/share/my_rviz_plugin/cmake/my_rviz_pluginConfig-version.cmake
+/opt/ros/humble/share/my_rviz_plugin/package.xml

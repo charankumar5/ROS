@@ -1,0 +1,11 @@
+/home/test/ros2_ws/src/my_rviz_plugin/.obj-x86_64-linux-gnu/CMakeFiles/uninstall.dir
+/home/test/ros2_ws/src/my_rviz_plugin/.obj-x86_64-linux-gnu/CMakeFiles/my_rviz_plugin_uninstall.dir
+/home/test/ros2_ws/src/my_rviz_plugin/.obj-x86_64-linux-gnu/CMakeFiles/my_rviz_plugin.dir
+/home/test/ros2_ws/src/my_rviz_plugin/.obj-x86_64-linux-gnu/CMakeFiles/test.dir
+/home/test/ros2_ws/src/my_rviz_plugin/.obj-x86_64-linux-gnu/CMakeFiles/edit_cache.dir
+/home/test/ros2_ws/src/my_rviz_plugin/.obj-x86_64-linux-gnu/CMakeFiles/rebuild_cache.dir
+/home/test/ros2_ws/src/my_rviz_plugin/.obj-x86_64-linux-gnu/CMakeFiles/list_install_components.dir
+/home/test/ros2_ws/src/my_rviz_plugin/.obj-x86_64-linux-gnu/CMakeFiles/install.dir
+/home/test/ros2_ws/src/my_rviz_plugin/.obj-x86_64-linux-gnu/CMakeFiles/install/local.dir
+/home/test/ros2_ws/src/my_rviz_plugin/.obj-x86_64-linux-gnu/CMakeFiles/install/strip.dir
+/home/test/ros2_ws/src/my_rviz_plugin/.obj-x86_64-linux-gnu/CMakeFiles/my_rviz_plugin_autogen.dir
